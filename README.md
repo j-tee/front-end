@@ -82,9 +82,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Link to Backend <a name="live-demo"></a>
 
-> Coming Soon!!!
+> [Hello Rails Backend](https://github.com/j-tee/hello-rails-back-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
