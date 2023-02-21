@@ -23,7 +23,7 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <h3><b>Hello Rails Backend</b></h3>
+  <h3><b>Hello World Frontend</b></h3>
 
 </div>
 
@@ -84,7 +84,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Link to Backend <a name="live-demo"></a>
 
-> [Hello Rails Backend](https://github.com/j-tee/hello-rails-back-end)
+> [Hello Rails Backend](comming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,8 +94,8 @@ After you're finished please remove all the comments and instructions!
 
 > To start and run this project
 
-- bundle install
-- rails s
+- npm install
+- npm start
 
 To get a local copy up and running, follow these steps.
 
@@ -105,12 +105,9 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you don't need any prerequisites:
 ```
-ruby
+react
 ```
 
-```
-postgres
-```
 ```
 Nodejs
 ```
@@ -137,11 +134,13 @@ To run the project, execute the following command:
 ```
 git clone  https://github.com/j-tee/front-end.git
 ```
+
 ```
-bundle install
+npm install
 ```
+
 ```
-rails s
+npm start
 ```
 
 ### Run tests
@@ -149,7 +148,7 @@ rails s
 To run tests, run the following command:
 
 ```
-rspec
+npm run test
 ```
 
 <!--
@@ -164,13 +163,10 @@ Example command:
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
 ```
- -->
+Comming soon...
+```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,7 +176,7 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Natanim Abesha**
+👤 **Tetteh Julius**
 
 - GitHub: [@githubhandle](https://github.com/j-tee)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/julius-tetteh)
@@ -217,7 +213,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
+> My sincerest thanks to my code reviewer [Ajise Toluwase](https://github.com/Whoistolu) for his immense support.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
